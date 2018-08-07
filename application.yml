@@ -7,9 +7,3 @@ spring:
     active: dev
   application:
     name: luosteel-develop
----
-spring:
-  profiles:
-    active: test
-  application:
-    name: luosteel-tset
