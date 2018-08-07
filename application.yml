@@ -12,4 +12,4 @@ spring:
   profiles:
     active: dev
   application:
-    name: luosteel-develop
+    name: luosteel-123
