@@ -3,13 +3,11 @@
     active: test
 ---
 spring:
-  profiles:
-    active: test
+  profiles: test
   application:
     name: luosteel-test
 ---
 spring:
-  profiles:
-    active: dev
+  profiles: dev
   application:
     name: luosteel-123
